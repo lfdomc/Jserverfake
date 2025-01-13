@@ -4,7 +4,7 @@
         "Titulo": "Equipo Front End #AluraMás",
         "Imagen": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
         "Video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
-        "Categoria": "FRONT EN",
+        "Categoria": "FRONT END",
         "Descripcion": "Equipo Front End #AluraMás"
         
     },
@@ -36,12 +36,21 @@
         
     },
     {
-        "id": 4,
+        "id": 5,
         "Titulo": "¿Qué es JavaScript?",
         "Imagen": "https://i.ytimg.com/vi/GJfOSoaXk4s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAkd-YmtXSL0q2mEZR0LZe3llwWFA",
         "Video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
-        "Categoria": "INOVACIÓN Y GESTIÓN",
+        "Categoria": "BACK END",
         "Descripcion": "¿Qué es JavaScript?"
+        
+    },
+     {
+        "id": 6,
+        "Titulo": "¿Por Qué Estudiar Programación?",
+        "Imagen": "https://i.ytimg.com/vi/PlaQ913yggM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC9h6gI95X-QXc-ZSmaH3zA9dhqkw",
+        "Video": "https://www.youtube.com/watch?v=PlaQ913yggM",
+        "Categoria": "INOVACIÓN Y GESTIÓN",
+        "Descripcion": "¿Por Qué Estudiar Programación?"
         
     }
 ]
