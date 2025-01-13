@@ -1,20 +1,20 @@
 { "videos":[
     {
         "id": 1,
-        "Titulo": "FRONT END",
-        "Imagen": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Jean.png",
-        "Video": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld",
-        "Categoria": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld",
-        "Descripcion": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld"
+        "Titulo": "Equipo Front End #AluraMás",
+        "Imagen": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+        "Video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+        "Categoria": "FRONT END",
+        "Descripcion": "Equipo Front End #AluraMás"
         
     },
     {
         "id": 2,
-        "Titulo": "Como utilizar el Display block, inline, inline-block",
-        "Imagen": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Jean.png",
-        "Video": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld",
-        "Categoria": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld",
-        "Descripcion": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld"
+        "Titulo": "Git y GitHub para Principiantes #AluraMás",
+        "Imagen": "https://i.ytimg.com/vi/-LmFK6skG7s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAnIViTpxVq8jZ0YmbVBmn5WdB0Zg",
+        "Video": "https://www.youtube.com/watch?v=-LmFK6skG7s",
+        "Categoria": "BACK END",
+        "Descripcion": "Git y GitHub para Principiantes #AluraMás"
         
     }
     
