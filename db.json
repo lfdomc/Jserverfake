@@ -25,6 +25,15 @@
         "Categoria": "FRONT END",
         "Descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás"
         
+    },
+    {
+        "id": 4,
+        "Titulo": "¿Qué son las Soft Skills?",
+        "Imagen": "https://i.ytimg.com/vi/vhwspfvI52k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6gXiKiza0PJa4GrYBxe5ST8-5PQ",
+        "Video": "https://www.youtube.com/watch?v=vhwspfvI52k&t=1s",
+        "Categoria": "INOVACIÓN Y GESTIÓN",
+        "Descripcion": "¿Qué son las Soft Skills?"
+        
     }
 ]
 }
