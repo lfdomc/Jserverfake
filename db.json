@@ -52,6 +52,15 @@
         "Categoria": "INOVACIÓN Y GESTIÓN",
         "Descripcion": "¿Por Qué Estudiar Programación?"
         
+    },
+    {
+        "id": 7,
+        "Titulo": "¿Qué es SQL y NoSQL?",
+        "Imagen": "https://i.ytimg.com/vi/cLLKVd5CNLc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkfbWrdjK-FUCYCImjAoRN1tNMqQ",
+        "Video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+        "Categoria": "BACK END",
+        "Descripcion": "¿Qué es SQL y NoSQL?"
+        
     }
 ]
 }
