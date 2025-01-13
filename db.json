@@ -70,6 +70,15 @@
         "Categoria": "INOVACIÓN Y GESTIÓN",
         "Descripcion": "¿Por qué estudiar Data Science?"
         
+    },
+    {
+        "id": 9,
+        "Titulo": "Frameworks de Front End - Edición especial",
+        "Imagen": "https://i.ytimg.com/vi/UNeKzI2WHgQ/hqdefault.jpg",
+        "Video": "https://www.youtube.com/watch?v=UNeKzI2WHgQ&list=PLNKOkLkhi1Ke9j-o8dn6pdG38VPhAoJ1Y&index=19",
+        "Categoria": "FRONT END",
+        "Descripcion": "Frameworks de Front End - Edición especial"
+        
     }
 ]
 }
