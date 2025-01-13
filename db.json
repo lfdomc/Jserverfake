@@ -61,6 +61,15 @@
         "Categoria": "BACK END",
         "Descripcion": "¿Qué es SQL y NoSQL?"
         
+    },
+    {
+        "id": 8,
+        "Titulo": "¿Por qué estudiar Data Science?",
+        "Imagen": "https://i.ytimg.com/vi/7_UXo-aqAeM/hqdefault.jpg",
+        "Video": "https://www.youtube.com/watch?v=7_UXo-aqAeM&list=PLNKOkLkhi1Ke9j-o8dn6pdG38VPhAoJ1Y&index=2",
+        "Categoria": "INOVACIÓN Y GESTIÓN",
+        "Descripcion": "¿Por qué estudiar Data Science?"
+        
     }
 ]
 }
