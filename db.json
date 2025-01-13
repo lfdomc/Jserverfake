@@ -5,7 +5,7 @@
         "Imagen": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
         "Video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
         "Categoria": "FRONT END",
-        "Descripcion": "Equipo Front End #AluraMás"
+        "Descripcion": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End."
         
     },
     {
@@ -14,7 +14,7 @@
         "Imagen": "https://i.ytimg.com/vi/-LmFK6skG7s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAnIViTpxVq8jZ0YmbVBmn5WdB0Zg",
         "Video": "https://www.youtube.com/watch?v=-LmFK6skG7s",
         "Categoria": "BACK END",
-        "Descripcion": "Git y GitHub para Principiantes #AluraMás"
+        "Descripcion": "Ve cómo funciona esta famosa herramienta de colaboración muy utilizada en el universo de la tecnología y tiene el control de las diferentes versiones de tus proyectos.."
         
     },
      {
@@ -23,7 +23,7 @@
         "Imagen": "https://i.ytimg.com/vi/UuAX5azcvDQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBv35TL2JpK7AdWOdaO3y-W5LdKwA",
         "Video": "https://www.youtube.com/watch?v=UuAX5azcvDQ&t=15s",
         "Categoria": "FRONT END",
-        "Descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás"
+        "Descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta."
         
     },
     {
@@ -32,7 +32,7 @@
         "Imagen": "https://i.ytimg.com/vi/vhwspfvI52k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6gXiKiza0PJa4GrYBxe5ST8-5PQ",
         "Video": "https://www.youtube.com/watch?v=vhwspfvI52k&t=1s",
         "Categoria": "INOVACIÓN Y GESTIÓN",
-        "Descripcion": "¿Qué son las Soft Skills?"
+        "Descripcion": "En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
         
     },
     {
@@ -41,7 +41,7 @@
         "Imagen": "https://i.ytimg.com/vi/GJfOSoaXk4s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAkd-YmtXSL0q2mEZR0LZe3llwWFA",
         "Video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
         "Categoria": "BACK END",
-        "Descripcion": "¿Qué es JavaScript?"
+        "Descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? "
         
     },
      {
@@ -50,7 +50,7 @@
         "Imagen": "https://i.ytimg.com/vi/PlaQ913yggM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC9h6gI95X-QXc-ZSmaH3zA9dhqkw",
         "Video": "https://www.youtube.com/watch?v=PlaQ913yggM",
         "Categoria": "INOVACIÓN Y GESTIÓN",
-        "Descripcion": "¿Por Qué Estudiar Programación?"
+        "Descripcion": "¿Por Qué Estudiar Programación? ¿Qué es? ¿Dónde está? ¿Y para qué se utiliza la programación? En este video el Head de Alura Latam, Christian Velasco nos responde esas y otras dudas."
         
     },
     {
@@ -59,7 +59,7 @@
         "Imagen": "https://i.ytimg.com/vi/cLLKVd5CNLc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkfbWrdjK-FUCYCImjAoRN1tNMqQ",
         "Video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
         "Categoria": "BACK END",
-        "Descripcion": "¿Qué es SQL y NoSQL?"
+        "Descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
         
     },
     {
@@ -68,7 +68,7 @@
         "Imagen": "https://i.ytimg.com/vi/7_UXo-aqAeM/hqdefault.jpg",
         "Video": "https://www.youtube.com/watch?v=7_UXo-aqAeM&list=PLNKOkLkhi1Ke9j-o8dn6pdG38VPhAoJ1Y&index=2",
         "Categoria": "INOVACIÓN Y GESTIÓN",
-        "Descripcion": "¿Por qué estudiar Data Science?"
+        "Descripcion": "Explicacion detallada del mundo de Data Science y todos sus recursos como Machine Learning"
         
     },
     {
@@ -77,7 +77,7 @@
         "Imagen": "https://i.ytimg.com/vi/UNeKzI2WHgQ/hqdefault.jpg",
         "Video": "https://www.youtube.com/watch?v=UNeKzI2WHgQ&list=PLNKOkLkhi1Ke9j-o8dn6pdG38VPhAoJ1Y&index=19",
         "Categoria": "FRONT END",
-        "Descripcion": "Frameworks de Front End - Edición especial"
+        "Descripcion": "En este video nuestro instructor de Front End nos explicarás cuáles son los frameworks de Front más conocidos y las diferencias entre ellos."
         
     }
 ]
