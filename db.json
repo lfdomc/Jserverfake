@@ -16,7 +16,15 @@
         "Categoria": "BACK END",
         "Descripcion": "Git y GitHub para Principiantes #AluraMás"
         
+    },
+     {
+        "id": 3,
+        "Titulo": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+        "Imagen": "https://i.ytimg.com/vi/UuAX5azcvDQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBv35TL2JpK7AdWOdaO3y-W5LdKwA",
+        "Video": "https://www.youtube.com/watch?v=UuAX5azcvDQ&t=15s",
+        "Categoria": "FRONT END",
+        "Descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás"
+        
     }
-    
 ]
 }
