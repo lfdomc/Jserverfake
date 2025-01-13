@@ -34,6 +34,15 @@
         "Categoria": "INOVACIÓN Y GESTIÓN",
         "Descripcion": "¿Qué son las Soft Skills?"
         
+    },
+    {
+        "id": 4,
+        "Titulo": "¿Qué es JavaScript?",
+        "Imagen": "https://i.ytimg.com/vi/GJfOSoaXk4s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAkd-YmtXSL0q2mEZR0LZe3llwWFA",
+        "Video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+        "Categoria": "INOVACIÓN Y GESTIÓN",
+        "Descripcion": "¿Qué es JavaScript?"
+        
     }
 ]
 }
